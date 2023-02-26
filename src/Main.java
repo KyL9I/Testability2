@@ -4,7 +4,7 @@ public class Main {
         int kg = 98;
         double cm = 1.87;
 
-        int bmi = service.calculate(kg , cm);
+        int bmi = service.calculate(kg, cm);
         System.out.println(bmi);
 
     }
